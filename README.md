@@ -4,6 +4,10 @@ Configuren la URL Base de http://bluepos.com.gt/DevPos en un archivo .env, setea
 
 Una vez configurado el proyecto, ya lo pueden ejecutar
 
+# Instalar dependencias
+
+`npm install`
+
 # Ejecutar el proyecto
 
 `npm run dev`
